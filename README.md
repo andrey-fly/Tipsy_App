@@ -5,4 +5,4 @@ Now you need divide the entire bill including the tips on the number of people. 
 Tipsy App makes this process easier! Just enter the bill amount, select the tips' percentage, then choose the number of 
 people and click "Calculate".
 
-![appgif](https://media.giphy.com/media/UrXXipsG7uT0vkxUnx/giphy.gif)
+![appgif](https://media.giphy.com/media/5JY0ymJOfeFvYMEnfd/giphy.gif)
