@@ -1,11 +1,3 @@
-//
-//  ResultsViewController.swift
-//  Tipsy
-//
-//  Created by Andrey Mukhin on 20.10.2021.
-//  Copyright © 2021 The App Brewery. All rights reserved.
-//
-
 import UIKit
 
 class ResultsViewController: UIViewController {
